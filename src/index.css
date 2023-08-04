@@ -1,3 +1,14 @@
+@import url(https://db.onlinewebfonts.com/c/8ed4ce0340a46173dc2154b00d2864c3?family=Leitura+News+W04+Roman+4);
+@import url('https://fonts.cdnfonts.com/css/milliard');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+section {
+  font-family: 'Leitura News W04 Roman 4', sans-serif;
+}
+
+section > * {
+  font-family: 'Milliard', sans-serif;
+}
