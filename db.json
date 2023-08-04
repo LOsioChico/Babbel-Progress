@@ -1,0 +1,1388 @@
+{
+  "items": [
+    {
+      "id": "6e3af6cabc150dae",
+      "title": "Principiante I",
+      "symbol": "A1.1",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 31,
+      "items": [
+        {
+          "id": "dea0bf604effd22e",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "cfbf7fc06eb5b231",
+              "title": "A1.1 - ¡Comencemos!",
+              "state": "todo"
+            },
+            {
+              "id": "f51d13c6ae5caa24",
+              "title": "A1.1 - Saluda a la gente y preséntate",
+              "state": "todo"
+            },
+            {
+              "id": "7e3379a8aaf9a07c",
+              "title": "A1.1 - Aprendiendo a deletrear y contar con juegos",
+              "state": "todo"
+            },
+            {
+              "id": "48e29ca1326ad071",
+              "title": "A1.1 - Pregúntale a alguien cómo está",
+              "state": "todo"
+            },
+            {
+              "id": "35ec8a74bbbaf891",
+              "title": "A1.1 - Habla sobre países (1)",
+              "state": "todo"
+            },
+            {
+              "id": "3a11582d5b7616b6",
+              "title": "A1.1 - Habla sobre países (2)",
+              "state": "todo"
+            },
+            {
+              "id": "b14922515b34bd66",
+              "title": "A1.1 - Hablando sobre la personalidad",
+              "state": "todo"
+            },
+            {
+              "id": "b3a61cae4ae9d132",
+              "title": "A1.1 - Hablando sobre platos internacionales",
+              "state": "todo"
+            },
+            {
+              "id": "a5d88f3f54c51afa",
+              "title": "A1.1 - Habla sobre nacionalidades",
+              "state": "todo"
+            },
+            {
+              "id": "70c5a0b059f32244",
+              "title": "A1.1 - De viaje",
+              "state": "todo"
+            },
+            {
+              "id": "14a08ae57b6763dc",
+              "title": "A1.1 - Hablando de tus amistades",
+              "state": "todo"
+            },
+            {
+              "id": "ef055db9517fd55a",
+              "title": "A1.1 - Habla sobre idiomas",
+              "state": "todo"
+            },
+            {
+              "id": "5e8aefb47615f7cc",
+              "title": "A1.1 - Rellenando formularios",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "b2e24c624941c4b5",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "9125e63a196a8fb6",
+              "title": "A1.1 - En el hotel",
+              "state": "todo"
+            },
+            {
+              "id": "499cb6794382d987",
+              "title": "A1.1 - Comprando recuerdos",
+              "state": "todo"
+            },
+            {
+              "id": "7597d4faf875c650",
+              "title": "A1.1 - Intercambia números de teléfono",
+              "state": "todo"
+            },
+            {
+              "id": "54353af333200301",
+              "title": "A1.1 - Pregunta por el precio",
+              "state": "todo"
+            },
+            {
+              "id": "f30d8864b62a0666",
+              "title": "A1.1 - En la cafetería",
+              "state": "todo"
+            },
+            {
+              "id": "e8aa8c9bfd96cc60",
+              "title": "A1.1 - Habla sobre la ropa (1)",
+              "state": "todo"
+            },
+            {
+              "id": "2fdc91ce8fd77800",
+              "title": "A1.1 - Habla sobre la ropa (2)",
+              "state": "todo"
+            },
+            {
+              "id": "bb847050c29236f3",
+              "title": "A1.1 - Cómo decir la hora",
+              "state": "todo"
+            },
+            {
+              "id": "6d299dbad37746dd",
+              "title": "A1.1 - Concierta una reunión",
+              "state": "todo"
+            },
+            {
+              "id": "421e8f0712b655f4",
+              "title": "A1.1 - Hablando sobre el trabajo",
+              "state": "todo"
+            },
+            {
+              "id": "696f19c24817c13b",
+              "title": "A1.1 - Tomando algo",
+              "state": "todo"
+            },
+            {
+              "id": "52ba1ef1da576976",
+              "title": "A1.1 - What would you like?",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "ea465001eb525ba6",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "3cb40456bda0f436",
+              "title": "A1.1 - Hablando de la familia",
+              "state": "todo"
+            },
+            {
+              "id": "266837a0d0d25e89",
+              "title": "A1.1 - Presentando a familiares y amigos",
+              "state": "todo"
+            },
+            {
+              "id": "64c754c252fc1aba",
+              "title": "A1.1 - Habla sobre tu rutina",
+              "state": "todo"
+            },
+            {
+              "id": "4fdcdd60429aaf9e",
+              "title": "A1.1 - Hablando de los amigos y la familia",
+              "state": "todo"
+            },
+            {
+              "id": "54b2afc7835c3a2e",
+              "title": "A1.1 - Hablando del tiempo libre",
+              "state": "todo"
+            },
+            {
+              "id": "ac42da884cedacdd",
+              "title": "A1.1 - Habla de tu comida favorita",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "692f26a0c4306cfb",
+      "title": "Principiante II",
+      "symbol": "A1.2",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 30,
+      "items": [
+        {
+          "id": "0fa8e80fb75cf695",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "1d66acefab33b5a2",
+              "title": "A1.2 - Hablando sobre música",
+              "state": "todo"
+            },
+            {
+              "id": "3db208119ac1336e",
+              "title": "A1.2 - Habla de tus deportes favoritos",
+              "state": "todo"
+            },
+            {
+              "id": "78888ec40f30c8ad",
+              "title": "A1.2 - La familia, los amigos y el tiempo libre",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "3934180a7e2bf131",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "f349345efbd7d5b8",
+              "title": "A1.2 - Habla de tu ciudad",
+              "state": "todo"
+            },
+            {
+              "id": "fef0ea694a5dd6be",
+              "title": "A1.2 - Describe tu barrio",
+              "state": "todo"
+            },
+            {
+              "id": "db83411a9ca3c515",
+              "title": "A1.2 - Describe una habitación",
+              "state": "todo"
+            },
+            {
+              "id": "a1eb9e83144e599f",
+              "title": "A1.2 - Desplázate por una ciudad",
+              "state": "todo"
+            },
+            {
+              "id": "791c293f2cc97a22",
+              "title": "A1.2 - Entiende las señales más comunes",
+              "state": "todo"
+            },
+            {
+              "id": "7b88735b0ebd2474",
+              "title": "A1.2 - En el médico",
+              "state": "todo"
+            },
+            {
+              "id": "fd3178bcec847f6d",
+              "title": "A1.2 - Hablando de la vida en la ciudad",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "e9da6ff3eeab1f4b",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "7443de8fd5757848",
+              "title": "A1.2 - Habla de la meteorología",
+              "state": "todo"
+            },
+            {
+              "id": "45bf0947bc2f205e",
+              "title": "A1.2 - Describe tus vacaciones ideales",
+              "state": "todo"
+            },
+            {
+              "id": "2990514535be8acb",
+              "title": "A1.2 - Habla de tus aficiones (1)",
+              "state": "todo"
+            },
+            {
+              "id": "046b06fbff185ace",
+              "title": "A1.2 - Hablando sobre cine",
+              "state": "todo"
+            },
+            {
+              "id": "6d950156c0a9a2e6",
+              "title": "A1.2 - Narración de historias",
+              "state": "todo"
+            },
+            {
+              "id": "2e3b5e79a3b6cadc",
+              "title": "A1.2 - Hablando sobre el fin de semana",
+              "state": "todo"
+            },
+            {
+              "id": "4fbc279a918297c3",
+              "title": "A1.2 - Habla de tus aficiones (2)",
+              "state": "todo"
+            },
+            {
+              "id": "c458ac76e678d2b2",
+              "title": "A1.2 - Hablando de estilo y moda",
+              "state": "todo"
+            },
+            {
+              "id": "ba3780554837e729",
+              "title": "A1.2 - Tu cumpleaños y otros días especiales",
+              "state": "todo"
+            },
+            {
+              "id": "2f564d8faa6ddd7c",
+              "title": "A1.2 - Planes con amigos",
+              "state": "todo"
+            },
+            {
+              "id": "bafe3f59d8790b5c",
+              "title": "A1.2 - En el restaurante",
+              "state": "todo"
+            },
+            {
+              "id": "4cf5cd78538af504",
+              "title": "A1.2 - Conociendo a otras personas",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "d37cc1d49efa22e3",
+          "title": "Unidad 4",
+          "items": [
+            {
+              "id": "62946dd8dee6b502",
+              "title": "A1.2 - Habla de la compra",
+              "state": "todo"
+            },
+            {
+              "id": "f1abf64f4c3b120b",
+              "title": "A1.2 - En el centro comercial",
+              "state": "todo"
+            },
+            {
+              "id": "beb8ed7a55fcf162",
+              "title": "A1.2 - Habla del pasado con “was” y “were”",
+              "state": "todo"
+            },
+            {
+              "id": "e62d3d098f89a023",
+              "title": "A1.2 - Habla del pasado con los verbos regulares",
+              "state": "todo"
+            },
+            {
+              "id": "f2e65b21ed353cff",
+              "title": "A1.2 - Habla del pasado con los verbos irregulares",
+              "state": "todo"
+            },
+            {
+              "id": "d2a952215cd31154",
+              "title": "A1.2 - Hablando sobre la escuela",
+              "state": "todo"
+            },
+            {
+              "id": "acdb0fe6dedcadf3",
+              "title": "A1.2 - Habla del pasado: repaso",
+              "state": "todo"
+            },
+            {
+              "id": "f3c065ef4519caa3",
+              "title": "A1.2 - Habla sobre series de televisión",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0e46a5f603fbf23",
+      "title": "Elemental I",
+      "symbol": "A2.1",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 29,
+      "items": [
+        {
+          "id": "a830cfc014a9a26d",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "a0898990c53545af",
+              "title": "A2.1 - Habla sobre ti (1)",
+              "state": "todo"
+            },
+            {
+              "id": "3459fc1328c479d4",
+              "title": "A2.1 - Habla de las familias del mundo",
+              "state": "todo"
+            },
+            {
+              "id": "f10900a75fe41ab8",
+              "title": "A2.1 - Los sentimientos y las emociones",
+              "state": "todo"
+            },
+            {
+              "id": "935fe631fe9d5c1d",
+              "title": "A2.1 - Habla de tus posesiones",
+              "state": "todo"
+            },
+            {
+              "id": "dedc7a76dc1c0bca",
+              "title": "A2.1 - Rellena un formulario",
+              "state": "todo"
+            },
+            {
+              "id": "a61ef532ed9c4fca",
+              "title": "A2.1 - En la embajada",
+              "state": "todo"
+            },
+            {
+              "id": "c272b874b5e2c95f",
+              "title": "A2.1 - Habla sobre ti (2)",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "3c546c669fb19330",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "f11fa17bfd4299f0",
+              "title": "A2.1 - Habla de tu vida diaria",
+              "state": "todo"
+            },
+            {
+              "id": "db8498f91c3205f3",
+              "title": "A2.1 - Hablando del trabajo",
+              "state": "todo"
+            },
+            {
+              "id": "25061a9e4a943921",
+              "title": "A2.1 - Habla del equilibrio entre el trabajo y el ocio",
+              "state": "todo"
+            },
+            {
+              "id": "3bd64774045e82b6",
+              "title": "A2.1 - Los amigos y la familia",
+              "state": "todo"
+            },
+            {
+              "id": "4bdf84a4344d4b6e",
+              "title": "A2.1 - Las vacaciones y el tiempo libre",
+              "state": "todo"
+            },
+            {
+              "id": "affb83476f4aa6c0",
+              "title": "A2.1 - Habla sobre la salud",
+              "state": "todo"
+            },
+            {
+              "id": "b54f1edf8b0129ad",
+              "title": "A2.1 - Habla de trabajos y profesiones",
+              "state": "todo"
+            },
+            {
+              "id": "6ccc2f4228d15f0b",
+              "title": "A2.1 - Habla sobre el hogar",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "e65c01a4450a1fef",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "394f14c2eca256b3",
+              "title": "A2.1 - Habla de tu casa y tus muebles",
+              "state": "todo"
+            },
+            {
+              "id": "554312b088b63637",
+              "title": "A2.1 - Hablando sobre arte",
+              "state": "todo"
+            },
+            {
+              "id": "0b4f80d828a6bc9c",
+              "title": "A2.1 - La cocina internacional",
+              "state": "todo"
+            },
+            {
+              "id": "4d89f818f2a41b92",
+              "title": "A2.1 - Hablando de tus intereses",
+              "state": "todo"
+            },
+            {
+              "id": "5e352766a98d2fff",
+              "title": "A2.1 - Habla de tu vecindario",
+              "state": "todo"
+            },
+            {
+              "id": "8d348f03a3ac1340",
+              "title": "A2.1 - Haz planes para el fin de semana",
+              "state": "todo"
+            },
+            {
+              "id": "52d0fc7fe7b2579b",
+              "title": "A2.1 - En la estación de tren",
+              "state": "todo"
+            },
+            {
+              "id": "9a613f543848e384",
+              "title": "A2.1 - Da y recibe indicaciones",
+              "state": "todo"
+            },
+            {
+              "id": "15d9c95316f8b43a",
+              "title": "A2.1 - De compras",
+              "state": "todo"
+            },
+            {
+              "id": "1377939f0e35c01e",
+              "title": "A2.1 - Compras en línea",
+              "state": "todo"
+            },
+            {
+              "id": "a8bc443302d4b057",
+              "title": "A2.1 - Cómo resolver problemas cotidianos",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "e0087b6c2049b447",
+          "title": "Unidad 4",
+          "items": [
+            {
+              "id": "61db0b1e3c9fe5bd",
+              "title": "A2.1 - Habla de tus talentos",
+              "state": "todo"
+            },
+            {
+              "id": "c7acacaa4aff369d",
+              "title": "A2.1 - Habla de la vida en los años 70",
+              "state": "todo"
+            },
+            {
+              "id": "b6393a3774b1750f",
+              "title": "A2.1 - Tus experiencias pasadas",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95ab59bfb037cc6e",
+      "title": "Elemental II",
+      "symbol": "A2.2",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 30,
+      "items": [
+        {
+          "id": "8891556965c65e3e",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "a34b870c56fce7d5",
+              "title": "A2.2 - Hablando de tus días en el colegio",
+              "state": "todo"
+            },
+            {
+              "id": "a7aa6ff84e98c0bd",
+              "title": "A2.2 - Habla sobre dinero e historia",
+              "state": "todo"
+            },
+            {
+              "id": "6e032c4321e2bcce",
+              "title": "A2.2 - Habla de la salud en el siglo XX",
+              "state": "todo"
+            },
+            {
+              "id": "2fb65f81be88fd5d",
+              "title": "A2.2 - Usando las redes sociales",
+              "state": "todo"
+            },
+            {
+              "id": "0841ba7eec6712d7",
+              "title": "A2.2 - Fiestas y celebraciones",
+              "state": "todo"
+            },
+            {
+              "id": "599c81956d64c8ba",
+              "title": "A2.2 - Hablando de tus aficiones",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "5e0089ca796ad2cb",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "c9fcdef5f4bc2da4",
+              "title": "A2.2 - Come fuera de casa",
+              "state": "todo"
+            },
+            {
+              "id": "e18419234a99341d",
+              "title": "A2.2 - Habla sobre comida y nutrición",
+              "state": "todo"
+            },
+            {
+              "id": "2ef3335ae3e9bac7",
+              "title": "A2.2 - Habla sobre la cocina",
+              "state": "todo"
+            },
+            {
+              "id": "260a3b1010060586",
+              "title": "A2.2 - Mejorando tu inglés con juegos",
+              "state": "todo"
+            },
+            {
+              "id": "72576c95d6362941",
+              "title": "A2.2 - Cenando fuera",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "d6a6e5b52cc24c7b",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "c2742fb0c60ea3b5",
+              "title": "A2.2 - Habla de la meteorología",
+              "state": "todo"
+            },
+            {
+              "id": "5463e52d8f71c1d8",
+              "title": "A2.2 - Habla de naturaleza y geografía",
+              "state": "todo"
+            },
+            {
+              "id": "259eb9e159926140",
+              "title": "A2.2 - Tus destinos turísticos favoritos",
+              "state": "todo"
+            },
+            {
+              "id": "a22699e84af7c8cd",
+              "title": "A2.2 - Habla de tu ciudad natal",
+              "state": "todo"
+            },
+            {
+              "id": "ab7c7480297f47c0",
+              "title": "A2.2 - Hablando del tiempo",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "c2e05a9a007ae7e9",
+          "title": "Unidad 4",
+          "items": [
+            {
+              "id": "639f73cbc281ea39",
+              "title": "A2.2 - Haz planes de futuro",
+              "state": "todo"
+            },
+            {
+              "id": "b83db43894d7a437",
+              "title": "A2.2 - Habla sobre el futuro",
+              "state": "todo"
+            },
+            {
+              "id": "8e77f4e2554ebcd3",
+              "title": "A2.2 - Habla de tecnología",
+              "state": "todo"
+            },
+            {
+              "id": "0ebe15ed41f098c9",
+              "title": "A2.2 - Habla de tus vacaciones",
+              "state": "todo"
+            },
+            {
+              "id": "3623c848b233ac24",
+              "title": "A2.2 - Aprende a pedirle a alguien que repita o aclare algo",
+              "state": "todo"
+            },
+            {
+              "id": "f702687ddb103c33",
+              "title": "A2.2 - En un mercadillo",
+              "state": "todo"
+            },
+            {
+              "id": "f90ea0ebd502c00b",
+              "title": "A2.2 - Haciendo planes",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "74b8f140626f17e9",
+          "title": "Unidad 5",
+          "items": [
+            {
+              "id": "30431760a619d97c",
+              "title": "A2.2 - Habla de arte y cultura",
+              "state": "todo"
+            },
+            {
+              "id": "31738a34968f3a9c",
+              "title": "A2.2 - En la taquilla",
+              "state": "todo"
+            },
+            {
+              "id": "20ee6467cfd8409b",
+              "title": "A2.2 - En el museo",
+              "state": "todo"
+            },
+            {
+              "id": "b24f3edb69eef982",
+              "title": "A2.2 - Habla sobre el cine",
+              "state": "todo"
+            },
+            {
+              "id": "3b86b0d447ca3cca",
+              "title": "A2.2 - Habla sobre la música",
+              "state": "todo"
+            },
+            {
+              "id": "437f21db31a0d5bb",
+              "title": "A2.2 - Valorando un evento",
+              "state": "todo"
+            },
+            {
+              "id": "ef331b4b23e87959",
+              "title": "A2.2 - Habla sobre los mejores momentos de tu vida",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5141a5a564897ba0",
+      "title": "Intermedio",
+      "symbol": "B1",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 27,
+      "items": [
+        {
+          "id": "70c2cb9866286189",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "a7a6a633a7b61898",
+              "title": "B1 - Talk about international cuisine in the present",
+              "state": "todo"
+            },
+            {
+              "id": "c327743318697563",
+              "title": "B1 - Talk about life experiences in the past",
+              "state": "todo"
+            },
+            {
+              "id": "172ca656bd7cab6d",
+              "title": "B1 - Talk about the news in the past",
+              "state": "todo"
+            },
+            {
+              "id": "5a5285fcb5950c71",
+              "title": "B1 - Talk about a new life with perfect tenses",
+              "state": "todo"
+            },
+            {
+              "id": "f653578be05ceeca",
+              "title": "B1 - Talk about technology in the future",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "b4bd5ca685e3629f",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "52d71a65c5baad34",
+              "title": "B1 - Compare travel options",
+              "state": "todo"
+            },
+            {
+              "id": "e7498cbc17a3496b",
+              "title": "B1 - Giving life advice",
+              "state": "todo"
+            },
+            {
+              "id": "d86a9ddd9c6e0d26",
+              "title": "B1 - Talk about culture and traditions",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "d39dcd6190f8890d",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "4ece6b24f206073a",
+              "title": "B1 - Talk about school and education with the first conditional",
+              "state": "todo"
+            },
+            {
+              "id": "17655d06174de00a",
+              "title": "B1 - Talk about dream jobs with the second conditional",
+              "state": "todo"
+            },
+            {
+              "id": "8bbef3494119048b",
+              "title": "B1 - Talk about time travel with the third conditional",
+              "state": "todo"
+            },
+            {
+              "id": "bc7506d150bb0f52",
+              "title": "B1 - Talk about wildlife and adventure with conditionals",
+              "state": "todo"
+            },
+            {
+              "id": "0ad4a4c0661e4ae2",
+              "title": "B1 - Talk about friendship and work with modals and conditionals",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "9bf0ea0eef707f79",
+          "title": "Unidad 4",
+          "items": [
+            {
+              "id": "bc8351f77f2e89b5",
+              "title": "B1 - Talk about childhood",
+              "state": "todo"
+            },
+            {
+              "id": "050e50fbc10a34a3",
+              "title": "B1 - Talk about food and cooking",
+              "state": "todo"
+            },
+            {
+              "id": "271f3cc71020c352",
+              "title": "B1 - Talk about landscapes and geography",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "85cf31f7a262171b",
+          "title": "Unidad 5",
+          "items": [
+            {
+              "id": "a225af6d9d1d2bbe",
+              "title": "B1 - Talk about shopping with gerunds and infinitives",
+              "state": "todo"
+            },
+            {
+              "id": "85e479c6c219710f",
+              "title": "B1 - Talk about love and relationships with reported speech",
+              "state": "todo"
+            },
+            {
+              "id": "01d74b3153a7b8da",
+              "title": "B1 - Talk about arts with the passive voice",
+              "state": "todo"
+            },
+            {
+              "id": "3a91cd825ec715a5",
+              "title": "B1 - Talk about inventions with relative clauses",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "54fcc5e8835742bf",
+          "title": "Unidad 6",
+          "items": [
+            {
+              "id": "a2f806ecc13eb796",
+              "title": "B1 - Requesting help with indirect questions",
+              "state": "todo"
+            },
+            {
+              "id": "dc6f5c30a98abc4e",
+              "title": "B1 - Talk about the environment",
+              "state": "todo"
+            },
+            {
+              "id": "47a334e3d42122ca",
+              "title": "B1 - Talk about law and order",
+              "state": "todo"
+            },
+            {
+              "id": "98145cad57bdf1a8",
+              "title": "B1 - Talk about parties and events",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "42766b9d645d1357",
+          "title": "Unidad 7",
+          "items": [
+            {
+              "id": "5bb1f13dd08b5240",
+              "title": "B1 - Doing small talk with idioms",
+              "state": "todo"
+            },
+            {
+              "id": "e7a1d889aa6924bc",
+              "title": "B1 - Phrasal verbs in the classroom",
+              "state": "todo"
+            },
+            {
+              "id": "6ab903a7b2956af5",
+              "title": "B1 - Phrasal verbs at work",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5c38f3795c4e5ec",
+      "title": "Intermedio alto",
+      "symbol": "B2",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 35,
+      "items": [
+        {
+          "id": "34bc16f41922b576",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "73aa49698aa76b48",
+              "title": "B2 - Meeting and greeting visitors",
+              "state": "todo"
+            },
+            {
+              "id": "6a6b58843c4b7ea5",
+              "title": "B2 - Talk about dating",
+              "state": "todo"
+            },
+            {
+              "id": "cb48fa71d7015f5a",
+              "title": "B2 - Talk about personality",
+              "state": "todo"
+            },
+            {
+              "id": "11bddfacc5f3cfcd",
+              "title": "B2 - Talk about illness and treatment",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "4098baa263f09558",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "51ba196dc6ce38b4",
+              "title": "B2 - Talk about fashion and stereotypes",
+              "state": "todo"
+            },
+            {
+              "id": "583a652d4200caa2",
+              "title": "B2 - Talk about travelling",
+              "state": "todo"
+            },
+            {
+              "id": "e807658e49f3f297",
+              "title": "B2 - Talk about books and literature",
+              "state": "todo"
+            },
+            {
+              "id": "730e4aa9195e92de",
+              "title": "B2 - Talk about historical events",
+              "state": "todo"
+            },
+            {
+              "id": "17d0085a0aa208be",
+              "title": "B2 - Talk about science",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "efe50c61bf97a2b3",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "b0481e416a9adcd6",
+              "title": "B2 - Talk about current affairs",
+              "state": "todo"
+            },
+            {
+              "id": "d0ccb277732317e9",
+              "title": "B2 - Talk about your childhood",
+              "state": "todo"
+            },
+            {
+              "id": "ed004528400f6acf",
+              "title": "B2 - Talk about housing and moving",
+              "state": "todo"
+            },
+            {
+              "id": "7a0ad50d6414b211",
+              "title": "B2 - Deal with customer service issues",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "2fab712df9c246e9",
+          "title": "Unidad 4",
+          "items": [
+            {
+              "id": "23248aa2d3cc44aa",
+              "title": "B2 - Talk about climate change and environmentalism",
+              "state": "todo"
+            },
+            {
+              "id": "a6ba48ca973fdc79",
+              "title": "B2 - Talk about crime",
+              "state": "todo"
+            },
+            {
+              "id": "4c6ada063b3aa5a9",
+              "title": "B2 - Talk about dangerous situations",
+              "state": "todo"
+            },
+            {
+              "id": "f450d13b1429a4b6",
+              "title": "B2 - Talk about love and relationships",
+              "state": "todo"
+            },
+            {
+              "id": "f32b01b8cb7462bb",
+              "title": "B2 - Talk about wishes and regrets",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "6a16909f1de9afb3",
+          "title": "Unidad 5",
+          "items": [
+            {
+              "id": "d0960c3f2f5434bd",
+              "title": "B2 - Talk about the body and senses",
+              "state": "todo"
+            },
+            {
+              "id": "805b871ba6ca8b2c",
+              "title": "B2 - Talk about music",
+              "state": "todo"
+            },
+            {
+              "id": "c7e3cd7a26340def",
+              "title": "B2 - Talk about social media",
+              "state": "todo"
+            },
+            {
+              "id": "82560a2aec358411",
+              "title": "B2 - Talk about healthy habits",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "9fabaf30fae8704c",
+          "title": "Unidad 6",
+          "items": [
+            {
+              "id": "85af28a3bfc8597c",
+              "title": "B2 - Slang",
+              "state": "todo"
+            },
+            {
+              "id": "c809f8273418f54f",
+              "title": "B2 - Talk about time and money",
+              "state": "todo"
+            },
+            {
+              "id": "a58b3fb723e50266",
+              "title": "B2 - Storytelling",
+              "state": "todo"
+            },
+            {
+              "id": "65f86adf61feee32",
+              "title": "B2 - Informing colleagues about delays",
+              "state": "todo"
+            },
+            {
+              "id": "2c283fe27b24544c",
+              "title": "B2 - Talk about education",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "9812ac60d740e504",
+          "title": "Unidad 7",
+          "items": [
+            {
+              "id": "9ff96b71a047dd48",
+              "title": "B2 - Talk about the internet",
+              "state": "todo"
+            },
+            {
+              "id": "b4dea3fe3725db0e",
+              "title": "B2 - Boomers, Xers, and Millenials: Talk about generation gaps",
+              "state": "todo"
+            },
+            {
+              "id": "b7c1a99ed71c9c91",
+              "title": "B2 - Talk about nutrition",
+              "state": "todo"
+            },
+            {
+              "id": "4f5f2636d5393b7f",
+              "title": "B2 - Making polite comments",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "7dfad3625664ddb1",
+          "title": "Unidad 8",
+          "items": [
+            {
+              "id": "8b161a3427cba21f",
+              "title": "B2 - Talk about artificial intelligence",
+              "state": "todo"
+            },
+            {
+              "id": "0d78be11b8a9042c",
+              "title": "B2 - Talk about business and advertising",
+              "state": "todo"
+            },
+            {
+              "id": "dbb43bf5d57adf65",
+              "title": "B2 - Setting up meetings",
+              "state": "todo"
+            },
+            {
+              "id": "b3b8a86adf9fd2ba",
+              "title": "B2 - Apologising for mistakes",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6a8da49e3474a0d",
+      "title": "Avanzado",
+      "symbol": "C1",
+      "completed_amount": 0,
+      "completed_percentage": 0,
+      "total_amount": 34,
+      "items": [
+        {
+          "id": "02a80d66fcbda4b2",
+          "title": "Unidad 1",
+          "items": [
+            {
+              "id": "48d7bf781e8f7390",
+              "title": "C1 - Talk about modern life",
+              "state": "todo"
+            },
+            {
+              "id": "8a27312b4e2b69fb",
+              "title": "C1 - Talk about trends and changes in society",
+              "state": "todo"
+            },
+            {
+              "id": "f224831525c0e27b",
+              "title": "C1 - Talk about modern art and culture",
+              "state": "todo"
+            },
+            {
+              "id": "4029c9d4d95183fb",
+              "title": "C1 - Talk about demographic change",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "e3223a07ac9ab69c",
+          "title": "Unidad 2",
+          "items": [
+            {
+              "id": "98d6b43eba2de4fc",
+              "title": "C1 - Talk about wildlife and nature",
+              "state": "todo"
+            },
+            {
+              "id": "c21986e97c066afa",
+              "title": "C1 - Talk about discoveries and inventions",
+              "state": "todo"
+            },
+            {
+              "id": "1dc0192b152bf2ce",
+              "title": "C1 - Talk about adventure and life experiences",
+              "state": "todo"
+            },
+            {
+              "id": "bd29fbff2dd7103b",
+              "title": "C1 - Talk about life challenges",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "15969267a6a65020",
+          "title": "Unidad 3",
+          "items": [
+            {
+              "id": "5e4ecb26c4a7bc83",
+              "title": "C1 - Teamwork",
+              "state": "todo"
+            },
+            {
+              "id": "24c8b14e618301c0",
+              "title": "C1 - Talk about different personalities at work",
+              "state": "todo"
+            },
+            {
+              "id": "7638c6bb90f56e19",
+              "title": "C1 - Talk about sports and competitions",
+              "state": "todo"
+            },
+            {
+              "id": "06f7c60db1ed3bdd",
+              "title": "C1 - Talk about the news and documentaries",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "a4c0faf3c6c8491b",
+          "title": "Unidad 4",
+          "items": [
+            {
+              "id": "17655247371ad5cb",
+              "title": "C1 - Talk about your education and career",
+              "state": "todo"
+            },
+            {
+              "id": "eae005fe46ebaf56",
+              "title": "C1 - Talk about your preferences in art and entertainment",
+              "state": "todo"
+            },
+            {
+              "id": "24a82657fc78b150",
+              "title": "C1 - Talk about civil rights and resposibilities",
+              "state": "todo"
+            },
+            {
+              "id": "6bda27c3d3562656",
+              "title": "C1 - Talk about work benefits and responsibilities",
+              "state": "todo"
+            },
+            {
+              "id": "a898d6c3514d6457",
+              "title": "C1 - Talk about the pros and cons of capitalism",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "bf899096aea8256a",
+          "title": "Unidad 5",
+          "items": [
+            {
+              "id": "275bae364af643b3",
+              "title": "C1 - Talk about money and power",
+              "state": "todo"
+            },
+            {
+              "id": "11c9dc64a96b55ba",
+              "title": "C1 - Talk about renewable energies",
+              "state": "todo"
+            },
+            {
+              "id": "0fe24113610f6851",
+              "title": "C1 - Talk about nuclear energy",
+              "state": "todo"
+            },
+            {
+              "id": "d1893d6075ea88e1",
+              "title": "C1 - Talk about social media",
+              "state": "todo"
+            },
+            {
+              "id": "9e0b25b993181ee1",
+              "title": "C1 - Talk about the pros and cons of the internet",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "f35f390cc9b00ba8",
+          "title": "Unidad 6",
+          "items": [
+            {
+              "id": "04821d91b218e73e",
+              "title": "C1 - Talk about stress and relaxation",
+              "state": "todo"
+            },
+            {
+              "id": "4b4ac924e782adfb",
+              "title": "C1 - Talk about humor",
+              "state": "todo"
+            },
+            {
+              "id": "f719965f70db793d",
+              "title": "C1 - Talk about films and entertainment",
+              "state": "todo"
+            },
+            {
+              "id": "b559710f951f5d0e",
+              "title": "C1 - Talk about feelings and emotions",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "3e3242044a70e24c",
+          "title": "Unidad 7",
+          "items": [
+            {
+              "id": "06367dae7ad728b9",
+              "title": "C1 - Talk about possibilities and probabilities",
+              "state": "todo"
+            },
+            {
+              "id": "de2e40e9fe3065af",
+              "title": "C1 - Talk about sustainability",
+              "state": "todo"
+            },
+            {
+              "id": "7f275b8c8fef57a6",
+              "title": "C1 - Negotiating in English",
+              "state": "todo"
+            },
+            {
+              "id": "9643705260cfb76d",
+              "title": "C1 - Speaking formally",
+              "state": "todo"
+            }
+          ]
+        },
+        {
+          "id": "dbc09d9c02f294e0",
+          "title": "Unidad 8",
+          "items": [
+            {
+              "id": "c09d53406a576871",
+              "title": "C1 - Talk about learning and education",
+              "state": "todo"
+            },
+            {
+              "id": "7084e924f26face4",
+              "title": "C1 - Creating your own English words",
+              "state": "todo"
+            },
+            {
+              "id": "677e49a97f60bc7b",
+              "title": "C1 - Let's talk idioms",
+              "state": "todo"
+            },
+            {
+              "id": "723103f4b57fa7f7",
+              "title": "C1 - Talk about languages",
+              "state": "todo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
