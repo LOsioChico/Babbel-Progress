@@ -1,4 +1,5 @@
 import { Progress, State } from '../interfaces/progress'
+import { currentDateFormated } from './currentDateFormated'
 
 interface UpdateProgress {
   progress: Progress[]
@@ -21,6 +22,8 @@ export const updateProgress = async ({
     ? (session.state = State.Todo)
     : (session!.state = State.Done)
 
+  session!.updatedAt = currentDateFormated()
+
   const newModule = {
     ...module,
     completed_amount: module?.items.reduce(
@@ -41,9 +44,6 @@ export const updateProgress = async ({
     ),
   }
 
-  module!.completed_amount = newModule.completed_amount ?? 0
-  module!.completed_percentage = newModule.completed_percentage ?? 0
-
   const response = await fetch(`http://localhost:3001/items/${moduleID}`, {
     method: 'PUT',
     headers: {
@@ -54,5 +54,9 @@ export const updateProgress = async ({
   if (!response.ok) {
     throw new Error('Network response was not ok')
   }
+
+  module!.completed_amount = newModule.completed_amount ?? 0
+  module!.completed_percentage = newModule.completed_percentage ?? 0
+
   return response.json()
 }
