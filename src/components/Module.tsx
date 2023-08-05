@@ -1,6 +1,8 @@
+import { useMutation } from '@tanstack/react-query'
 import { CircularProgressbar } from 'react-circular-progressbar'
 import { FaChevronDown } from 'react-icons/fa'
 import { Progress, ProgressItem } from '../interfaces/progress'
+import { updateProgress } from '../utils/updateProgress'
 import { Unit } from './Unit'
 
 interface Props {
@@ -10,6 +12,7 @@ interface Props {
 }
 
 export const Module = ({ module, data, selectedID }: Props) => {
+  const mutation = useMutation({ mutationFn: updateProgress })
   return (
     <>
       <div className='flex h-20 w-full max-w-[765px] items-center justify-between'>
@@ -67,7 +70,13 @@ export const Module = ({ module, data, selectedID }: Props) => {
           onClick={(e) => e.stopPropagation()}
         >
           {module.items.map((unit: ProgressItem) => (
-            <Unit key={unit.id} unit={unit} data={data} module={module} />
+            <Unit
+              key={unit.id}
+              unit={unit}
+              data={data}
+              module={module}
+              mutation={mutation}
+            />
           ))}
         </div>
       )}
