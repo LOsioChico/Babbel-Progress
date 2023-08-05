@@ -18,6 +18,7 @@ export interface ItemUnits {
   id: string
   title: string
   state: State
+  updatedAt?: string
 }
 
 export enum State {
