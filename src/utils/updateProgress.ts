@@ -1,7 +1,7 @@
 import { Progress, State } from '../interfaces/progress'
 import { currentDateFormated } from './currentDateFormated'
 
-interface UpdateProgress {
+export interface UpdateProgress {
   progress: Progress[]
   moduleID: string
   unitID: string
@@ -43,14 +43,18 @@ export const updateProgress = async ({
         100,
     ),
   }
-
-  const response = await fetch(`http://localhost:3001/items/${moduleID}`, {
-    method: 'PUT',
-    headers: {
-      'Content-Type': 'application/json',
+  const response = await fetch(
+    `${import.meta.env.VITE_API_URL}/${moduleID}` ||
+      `http://localhost:3001/${moduleID}`,
+    {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+      },
+      body: JSON.stringify(newModule),
     },
-    body: JSON.stringify(newModule),
-  })
+  )
   if (!response.ok) {
     throw new Error('Network response was not ok')
   }
