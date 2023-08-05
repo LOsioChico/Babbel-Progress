@@ -1,4 +1,4 @@
-import { useMutation } from '@tanstack/react-query'
+import { UseMutationResult } from '@tanstack/react-query'
 import { FaRegDotCircle } from 'react-icons/fa'
 import {
   ItemUnits,
@@ -6,17 +6,17 @@ import {
   ProgressItem,
   State,
 } from '../interfaces/progress'
-import { updateProgress } from '../utils/updateProgress'
+import { UpdateProgress } from '../utils/updateProgress'
 
 interface Props {
   session: ItemUnits
   data: Progress[]
   module: Progress
   unit: ProgressItem
+  mutation: UseMutationResult<unknown, unknown, UpdateProgress, unknown>
 }
 
-export const Session = ({ session, data, module, unit }: Props) => {
-  const mutation = useMutation({ mutationFn: updateProgress })
+export const Session = ({ session, data, module, unit, mutation }: Props) => {
   return (
     <li
       className={`mb-5 flex ${session.state === State.Done && 'opacity-40'}`}
