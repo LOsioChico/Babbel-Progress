@@ -1,5 +1,6 @@
 import { Progress, State } from '../interfaces/progress'
 import { currentDateFormated } from './currentDateFormated'
+import supabase from './supabase'
 
 export interface UpdateProgress {
   progress: Progress[]
@@ -43,24 +44,22 @@ export const updateProgress = async ({
         100,
     ),
   }
-  const response = await fetch(
-    `${import.meta.env.VITE_API_URL}/${moduleID}` ||
-      `http://localhost:3001/${moduleID}`,
-    {
-      method: 'PUT',
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*',
-      },
-      body: JSON.stringify(newModule),
-    },
+
+  const newProgress = progress.map((module) =>
+    module.id === moduleID ? newModule : module,
   )
-  if (!response.ok) {
-    throw new Error('Network response was not ok')
+
+  const { error } = await supabase
+    .from('progress')
+    .update({ items: JSON.stringify(newProgress) })
+    .match({ id: 'progress' })
+
+  if (error) {
+    throw new Error(error.message)
   }
 
   module!.completed_amount = newModule.completed_amount ?? 0
   module!.completed_percentage = newModule.completed_percentage ?? 0
 
-  return response.json()
+  return newProgress
 }
